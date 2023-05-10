@@ -17,3 +17,10 @@ if __name__ == '__main__':
     with open('you_said_this.txt', 'w') as file:
         file.write(phrase)
         print('The last sentence you spoke was saved in you_said_this.txt')
+
+
+
+
+        
+        
+        
